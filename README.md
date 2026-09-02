@@ -17,23 +17,12 @@ To become job-ready for an entry-level Data Analyst role.
 - [ ] Portfolio
 - [ ] Interview Preparation
 
-## 🐍 Python
-
-Currently learning and practicing:
-
-- Comments
-- Variables
-- Variable Naming Conventions
-- Data Types
-- Strings
-- Type Conversion
-
-## 📈 Progress
 
 ### Python
 
-- [x] Class 01 — Python Basics
-- [ ] Class 02 — Strings & Type Conversion
+- [x] Python Basics
+- [x] Strings & Type Conversion
+- [x] operators
 - [ ] Conditional Statements
 - [ ] Loops
 - [ ] Functions
