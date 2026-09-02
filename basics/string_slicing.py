@@ -8,3 +8,7 @@ s = input("Enter the string : ")
 print(s[::-1])
 
 #Print the last character of the string
+
+print(s[-1::])          #method 01
+
+print(s[-1])            #method 02
