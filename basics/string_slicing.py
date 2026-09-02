@@ -6,3 +6,5 @@ s = input("Enter the string : ")
 # moving backwards by 1 position.
 
 print(s[::-1])
+
+#Print the last character of the string
