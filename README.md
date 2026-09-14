@@ -35,3 +35,4 @@ To become job-ready for an entry-level Data Analyst role.
 
 This repository documents my progress, practice,
 mistakes, and improvements as I work towards becoming a Data Analyst.
+
