@@ -23,7 +23,7 @@ To become job-ready for an entry-level Data Analyst role.
 - [x] Python Basics
 - [x] Strings & Type Conversion
 - [x] operators
-- [ ] Conditional Statements
+- [x] Conditional Statements
 - [ ] Loops
 - [ ] Functions
 - [ ] Data Structures
