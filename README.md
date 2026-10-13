@@ -8,8 +8,8 @@ To become job-ready for an entry-level Data Analyst role.
 
 ## 📚 Learning Roadmap
 
-- [ ] Python
-- [ ] Pandas
+- [x] Python
+- [x] Pandas
 - [ ] SQL
 - [ ] Excel
 - [ ] Power BI
@@ -24,7 +24,7 @@ To become job-ready for an entry-level Data Analyst role.
 - [x] Strings & Type Conversion
 - [x] operators
 - [x] Conditional Statements
-- [ ] Loops
+- [x] Loops
 - [ ] Functions
 - [ ] Data Structures
 - [ ] File Handling

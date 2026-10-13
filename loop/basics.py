@@ -68,7 +68,6 @@ for i in range(1, 11):
 # 7. NESTED LOOPS
 # ------------------------------------------
 # A loop inside another loop is called a nested loop.
-
 for i in range(1, 4):
     for j in range(1, 4):
         print(i, j)
