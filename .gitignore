@@ -6,6 +6,9 @@
 __pycache__/
 *.pyc
 
+# Temporary VS Code Python Code Runner file
+tempCodeRunnerFile.py
+
 # Virtual environments
 .venv/
 venv/
