@@ -1,38 +1,55 @@
-# Python to Data Analyst 🚀
+# Data Analyst Learning Workspace 📊
 
-My learning journey from Python fundamentals to becoming a Data Analyst.
+This repository is organized as my learning and daily work space for my first job as a Data Analyst.
 
-## 🎯 Goal
+## Purpose
 
-To become job-ready for an entry-level Data Analyst role.
+A clean, structured place to store:
+- Python practice and fundamentals
+- Statistics and analytics concepts
+- NumPy and Pandas learning
+- Data visualization and EDA work
+- SQL, Excel, and Power BI tasks
+- Portfolio and project work
 
-## 📚 Learning Roadmap
+## Organized Folder Structure
 
-- [x] Python
-- [x] Pandas
-- [ ] SQL
-- [ ] Excel
-- [ ] Power BI
-- [ ] Data Analysis Projects
-- [ ] Portfolio
-- [ ] Interview Preparation
+- 00_Job_Ready_Notes/
+  - 01_Data_Analyst_Notes/
+- 01_Python_Fundamentals/
+  - 01_Python_Basics/
+- 02_Statistics_And_Probability/
+  - 01_Statistics_Notes/
+- 03_NumPy/
+  - 01_NumPy_Basics/
+- 04_Pandas/
+  - 01_Pandas_Classwork/
+- 05_Data_Visualization/
+  - 01_Matplotlib/
+  - 02_Seaborn/
+- 06_Exploratory_Data_Analysis/
+  - 01_EDA_Projects/
+- 07_SQL/
+  - 01_SQL_Practice/
+- 08_Excel/
+  - 01_Excel_Practice/
+- 09_PowerBI/
+  - 01_PowerBI_Practice/
+- 10_Portfolio_Projects/
 
+## Learning Roadmap
 
-### Python
+- [x] Python fundamentals
+- [ ] Statistics basics
+- [ ] NumPy practice
+- [x] Pandas practice
+- [ ] Data visualization
+- [ ] Exploratory Data Analysis
+- [ ] SQL practice
+- [ ] Excel tasks
+- [ ] Power BI dashboards
+- [ ] Portfolio projects
 
-- [x] Python Basics
-- [x] Strings & Type Conversion
-- [x] operators
-- [x] Conditional Statements
-- [x] Loops
-- [ ] Functions
-- [ ] Data Structures
-- [ ] File Handling
-- [ ] Exception Handling
-- [ ] OOP
+## Notes
 
-## 🚀 Learning in Public
-
-This repository documents my progress, practice,
-mistakes, and improvements as I work towards becoming a Data Analyst.
-
+This structure is designed to feel like a professional analyst workspace, making it easier to keep everyday learning organized, review progress, and build a strong portfolio for entry-level data analyst work.
